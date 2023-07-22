@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: 
+baseurl:
 domain_name: "http://sparrowharkproject.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
@@ -16,4 +16,4 @@ url: ""
 author: "Ron Becker"
 
 # Disqus config
-disqus-shortname: ""
+disqus-shortname: "sparrowhawkproject"

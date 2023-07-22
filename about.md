@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me 
+title: About Us 
 ---
 
 # What is the Sparrowhawk Project?
@@ -8,4 +8,3 @@ title: About me
 Coming Soon
 
 Follow us on <a rel="me" href="https://mastodon.social/@sparrowhawkproject">Mastodon</a>!
-
