@@ -13,7 +13,7 @@ plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: ""
-author: "Ron Becker"
+author: "Sparrowhawk Project"
 
 # Disqus config
 disqus-shortname: "sparrowhawkproject"
