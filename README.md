@@ -1,3 +1,3 @@
 # GitHub Pages Site for the Sparrowhawk Project
 
-(WIP) Coming Soon
+Official blog for the Sparrowhawk Project.
